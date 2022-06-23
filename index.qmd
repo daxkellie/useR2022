@@ -4,6 +4,7 @@ author: |
   Dax Kellie, Jenna Wraith, Martin Westgate <br>
   ![](images/logos/ALA_Logo.png){style="width: auto; height: 150px; margin-top: 80px"} ![](images/logos/NCRIS_logo.png){style="width: auto; height: 150px; margin-top: 80px"} ![](images/logos/CSIRO_logo.png){style="width: auto; height: 150px; margin-top: 80px"} <br>
   ![](images/logos/twitter_blue.png){style="width: auto; height: 50px; float:left; margin-top: 20px"} <span style = "float:left; margin-top: 20px">   @daxkellie <span/>
+image: images/preview.png
 format: 
   revealjs: 
     theme: [default, custom.scss] 
