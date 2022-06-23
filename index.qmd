@@ -6,7 +6,7 @@ author: |
   ![](images/logos/twitter_blue.png){style="width: auto; height: 50px; float:left; margin-top: 20px"} <span style = "float:left; margin-top: 20px">   @daxkellie <span/>
 format: 
   revealjs: 
-    in-header: "twitter_card.html"
+    include-in-header: "twitter_card.html"
     theme: [default, custom.scss] 
     transition: fade
 editor: visual
