@@ -30,7 +30,7 @@ in the Global Biodiversity Information Facility (GBIF)
 
 ## living-atlases.gbif.org {background-color="#222322" transition="slide"}
 
-![](images/living_atlases.png)
+![](images/living_atlases.PNG)
 
 ------------------------------------------------------------------------
 
@@ -277,15 +277,15 @@ galah_call() |> atlas_counts()
 
 ## atlasoflivingaustralia.github.io/galah {.galah}
 
-![](images/galah-pkgdown.png)
+![](images/galah-pkgdown.PNG)
 
 ## labs.ala.org.au
 
-![](images/ala-labs_home.png)
+![](images/ala-labs_home.PNG)
 
 ## labs.ala.org.au
 
-![](images/ala-labs_posts.png)
+![](images/ala-labs_posts.PNG)
 
 ## Downloading biodiversity data is tidier than ever
 
