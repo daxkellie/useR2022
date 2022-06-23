@@ -6,9 +6,9 @@ author: |
   ![](images/logos/twitter_blue.png){style="width: auto; height: 50px; float:left; margin-top: 20px"} <span style = "float:left; margin-top: 20px">   @daxkellie <span/>
 format: 
   revealjs: 
+    include-in-header: meta.html
     theme: [default, custom.scss] 
     transition: fade
-    include-in-header: "meta.html"
 editor: visual
 ---
 
